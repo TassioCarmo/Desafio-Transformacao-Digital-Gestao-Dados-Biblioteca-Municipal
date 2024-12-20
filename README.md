@@ -14,4 +14,4 @@ A Biblioteca trabalha com um sistema de empréstimo de livros no qual o usuário
 
 Para que pudéssemos realizar o projeto a equipe da Biblioteca nos entregou o modelo lógico ao lado e o arquivo excel –”dados_biblioteca.csv” contendo as informações a serem inseridas na Base de Dados.
 
-![image](https://github.com/user-attachments/assets/cc3cf329-26b6-4d77-8a20-9a8f864de7d3)
+![image](https://github.com/user-attachments/assets/5996aff6-5cb9-4f71-9c0e-e0be6868b986)
