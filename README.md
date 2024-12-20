@@ -15,3 +15,7 @@ A Biblioteca trabalha com um sistema de empréstimo de livros no qual o usuário
 Para que pudéssemos realizar o projeto a equipe da Biblioteca nos entregou o modelo lógico ao lado e o arquivo excel –”dados_biblioteca.csv” contendo as informações a serem inseridas na Base de Dados.
 
 ![image](https://github.com/user-attachments/assets/5996aff6-5cb9-4f71-9c0e-e0be6868b986)
+
+## ESCOPO
+
+Durante a negociação do projeto, ficou acordado que faremos: a melhor modelagem física baseada no modelo logico entregue,  carga dos dados reduzidos do arquivo excel (em anexo), a criação da 1ª versão do dicionário de dados e os SQLs para as seguintes solicitações: 
